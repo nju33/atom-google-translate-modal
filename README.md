@@ -2,7 +2,7 @@
 
 Add modal google translate page
 
-![Atom Google Translate Modal]()
+![Atom Google Translate Modal](https://raw.githubusercontent.com/nju33/atom-google-translate-modal/master/screenshot.png)
 
 ## Keymap
 
