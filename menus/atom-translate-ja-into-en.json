@@ -1,0 +1,18 @@
+{
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "Google Translate Modal",
+          "submenu": [
+            {
+              "label": "Open",
+              "command": "Google Translate Modal: Toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
