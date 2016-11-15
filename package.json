@@ -1,7 +1,7 @@
 {
   "name": "google-translate-modal",
   "main": "./lib/google-translate-modal",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Add modal google translate page",
   "keywords": [
     "google",
