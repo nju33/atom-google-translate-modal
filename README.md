@@ -9,3 +9,7 @@ Add modal google translate page
 ```
 "ctrl-alt-t": "Google Translate Modal: Toggle"
 ```
+
+## Context Menu
+
+When text is selected, An item, `Open google translate modal with selection`, is added to the context menu. Clicking on it opens a modal with the selected text inserted in the textarea.
