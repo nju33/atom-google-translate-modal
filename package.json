@@ -16,5 +16,13 @@
   },
   "dependencies": {
     "lodash.debounce": "^4.0.8"
+  },
+  "xo": {
+    "space": 2,
+    "envs": ["browser"],
+    "globals": ["atom"]
+  },
+  "devDependencies": {
+    "xo": "^0.17.1"
   }
 }
